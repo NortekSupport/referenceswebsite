@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://github.com/NortekSupport/referenceswebsite.git'
-title = 'Hugo Book'
+baseURL = 'https://nortek-references.netlify.app/'
+title = 'Nortek references'
 theme = 'hugo-book'
 
 # Book configuration
