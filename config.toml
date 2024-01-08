@@ -4,4 +4,3 @@ baseURL = 'https://nortek-references.netlify.app/'
 title = 'Nortek references'
 theme = 'hugo-book'
 languageCode = "en-us"
-title = "My New Hugo Site"
