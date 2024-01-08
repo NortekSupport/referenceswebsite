@@ -1,3 +1,3 @@
 [build]
-  publish = "C:\Users\NeryNeto\code\references-nortek-v5"
   command = "hugo"
+  publish = "C:\Users\NeryNeto\code\references-nortek-v5"
