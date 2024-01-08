@@ -1,3 +1,2 @@
 [build]
   command = "hugo"
-  publish = "C:/Users/NeryNeto/code/references-nortek-v5"
