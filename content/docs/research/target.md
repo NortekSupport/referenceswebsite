@@ -8,3 +8,6 @@
 
 ## Turbulence
 [Thiébaut, Maxime, Nolwenn Quillien, Antoine Maison, Herveline Gaborieau, Nicolas Ruiz, Seumas MacKenzie, Gary Connor, and Jean-François Filipot. "Investigating the flow dynamics and turbulence at a tidal-stream energy site in a highly energetic estuary." Renewable Energy 195 (2022): 252-262.](https://www.sciencedirect.com/science/article/pii/S0960148122008515?casa_token=dKJP6ebCzNAAAAAA:pE9ZWM8iqmZWh-k3tDUr6Ow3hLbGlq39ALhpmDAJcS8J2zxs974saaGxvgEts2uzfJc5pHg3Cegv)
+
+## Biomass
+[Cutter Jr, George R., Christian S. Reiss, Sven Nylund, and George M. Watters. "Antarctic krill biomass and flux measured using wideband echosounders and acoustic doppler current profilers on submerged moorings." Frontiers in Marine Science 9 (2022): 784469.](https://www.frontiersin.org/articles/10.3389/fmars.2022.784469/full)
