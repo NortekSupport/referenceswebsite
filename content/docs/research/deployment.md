@@ -7,7 +7,7 @@
 [Wilson, W. Douglas, and Robert Heitsenrether. "A comparison of current profiles collected from bottom-and buoy-mounted instruments." In _OCEANS 2016 MTS/IEEE Monterey_, pp. 1-5. IEEE, 2016.](https://ieeexplore.ieee.org/abstract/document/7761347/)
 
 ## Buoy-mounted
-[Wilson, William Douglas, David Velasco, Dan Shumuk, Laura Fiorentino, and Robert Heitesenrether. "Improving Current Measurements from Wave Buoys: Results from a Successful Five-Year Collaborative Development Project." In OCEANS 2019 MTS/IEEE SEATTLE, pp. 1-6. IEEE, 2019.]
+[Wilson, William Douglas, David Velasco, Dan Shumuk, Laura Fiorentino, and Robert Heitesenrether. "Improving Current Measurements from Wave Buoys: Results from a Successful Five-Year Collaborative Development Project." In OCEANS 2019 MTS/IEEE SEATTLE, pp. 1-6. IEEE, 2019.](https://ieeexplore.ieee.org/document/8962584)
 
 ## Drifter
 [Poulain, Pierre-Marie, Riccardo Barbanti, Elena Mauri, and Fabio Brunetti. Drifter dispersion experiments in the vicinity of the Gulf of La Spezia (Ligurian Sea) in June 2007: Data report. _OGS Tech. Report 2007/71 OGS 18 SIRE. OGS_, Trieste, Italy, 2007.](http://argo.inogs.it/pub/report_drifter_sp07.pdf)
@@ -17,9 +17,9 @@
 ## Glider
 [Rusello, Peter J., Christopher Yahnker, and Mark Morris. "Improving depth averaged velocity measurements from seaglider with an advanced acoustic current profiler, the nortek ad2cp-glider." In 2012 Oceans, pp. 1-8. _IEEE_, 2012.](https://ieeexplore.ieee.org/abstract/document/6404897?casa_token=82j-me19lAsAAAAA:EJ31RvTpbfKGh6XhVks_7LusjTDEgratZf1d_7q6mE4OK9RyZGpG1O0C4_p6YHyNE0hetftXcSc)
 
-[Todd, Robert E., Daniel L. Rudnick, Jeffrey T. Sherman, W. Brechner Owens, and Lawrence George. "Absolute velocity estimates from autonomous underwater gliders equipped with Doppler current profilers." _Journal of Atmospheric and Oceanic Technology_ 34, no. 2 (2017): 309-333.]
+[Todd, Robert E., Daniel L. Rudnick, Jeffrey T. Sherman, W. Brechner Owens, and Lawrence George. "Absolute velocity estimates from autonomous underwater gliders equipped with Doppler current profilers." _Journal of Atmospheric and Oceanic Technology_ 34, no. 2 (2017): 309-333.](https://journals.ametsoc.org/view/journals/atot/34/2/jtech-d-16-0156.1.xml)
 
-[Todd, Robert E., Taylor G. Asher, Joleen Heiderich, John M. Bane, and Richard A. Luettich. "Transient response of the Gulf Stream to multiple hurricanes in 2017." _Geophysical Research Letters_ 45, no. 19 (2018): 10-509.] (https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL079180)
+[Todd, Robert E., Taylor G. Asher, Joleen Heiderich, John M. Bane, and Richard A. Luettich. "Transient response of the Gulf Stream to multiple hurricanes in 2017." _Geophysical Research Letters_ 45, no. 19 (2018): 10-509.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL079180)
 
 [Zeiden, Kristin L., Daniel L. Rudnick, and Jennifer A. MacKinnon. "Glider observations of a mesoscale oceanic island wake." _Journal of Physical Oceanography_ 49, no. 9 (2019): 2217-2235.](https://journals.ametsoc.org/view/journals/phoc/49/9/jpo-d-18-0233.1.xml?tab_body=abstract-display)
 
