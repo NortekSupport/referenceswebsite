@@ -24,13 +24,9 @@ Signatures, Velocimeters, AWACs, DVLs and more.
 
 ## Publications by environment
 
-Estuaries, deep sea, laboratory, coastal, lakes and more.
+Estuaries, deep sea, laboratory, lakes, coastal ecosystems and more.
 
-## Publications by ecosystem
-
-Coral reef, mangroove, seagrass meadows and more.
-
-## Publications by target
+## Publications by topic
 
 Waves, turbulence, biomass, sediment and more.
 
