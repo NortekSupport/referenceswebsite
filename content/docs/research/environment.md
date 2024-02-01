@@ -1,7 +1,7 @@
 ### List of publications by environment
 
 ## Breaking zone
-[Gomes, Esther R., Ryan P. Mulligan, Katherine L. Brodie, and Jesse E. McNinch. "Bathymetric control on the spatial distribution of wave breaking in the surf zone of a natural beach." _Coastal Engineering_ 116 (2016): 180-194.]
+[Gomes, Esther R., Ryan P. Mulligan, Katherine L. Brodie, and Jesse E. McNinch. "Bathymetric control on the spatial distribution of wave breaking in the surf zone of a natural beach." _Coastal Engineering_ 116 (2016): 180-194.](https://www.sciencedirect.com/science/article/pii/S0378383916301235?casa_token=WiMfNBm6uykAAAAA:esmdjZuAPfXJSeHivsOZO8S6iZFTfze0YpMAadGLSl7S4vYuYcXtu6_yXj6QAw5oHVLdOmwNUbm9)
 
 ## Coral reef
 [Pomeroy, Andrew WM, Ryan J. Lowe, Marco Ghisalberti, Curt Storlazzi, Graham Symonds, and Dano Roelvink. "Sediment transport in the presence of large reef bottom roughness." _Journal of Geophysical Research: Oceans_ 122, no. 2 (2017): 1347-1368.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC011755)
