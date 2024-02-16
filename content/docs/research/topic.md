@@ -17,6 +17,12 @@
 [Dzwonkowski, B., J. Coogan, S. Fournier, G. Lockridge, K. Park, and T. Lee. "Compounding impact of severe weather events fuels marine heatwave in the coastal ocean." Nature Communications 11, no. 1 (2020): 4623.](https://www.nature.com/articles/s41467-020-18339-2)
 
 ## Sediment
+[Edge, W. C., N. L. Jones, M. D. Rayson, and G. N. Ivey. "Calibrated suspended sediment observations beneath large amplitude non‐linear internal waves." _Journal of Geophysical Research: Oceans_ 126, no. 12 (2021): e2021JC017538](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017538)
+
+[Gartner, Jeffrey W. "Estimating suspended solids concentrations from backscatter intensity measured by acoustic Doppler current profiler in San Francisco Bay, California." Marine geology 211, no. 3-4 (2004): 169-187.](https://www.sciencedirect.com/science/article/pii/S0025322704001872?casa_token=AbZYbs7eFvQAAAAA:VHQDvE9-3yDKSUdYhQN2Jc6vQRfmAUOxuDXVDd-QHowkS9htXfS5do3p4kcRmxAekKHj6oUB8YAc)
+
+[Ha, H. K., JP-Y. Maa, K. Park, and Y. H. Kim. "Estimation of high-resolution sediment concentration profiles in bottom boundary layer using pulse-coherent acoustic Doppler current profilers." _Marine Geology_ 279, no. 1-4 (2011): 199-209.](https://www.sciencedirect.com/science/article/pii/S0025322710002987?casa_token=IVGpqYlVUbcAAAAA:VR3xXraEhIVmTRgpFdH3lrHMtIxWhaAsPh_yeXYbDvh372I4zGo1cfy5I8vVPFWYDL7C7DHCdgKp)
+
 [Haalboom, Sabine, Henko C. de Stigter, Christian Mohn, Thomas Vandorpe, Marck Smit, Laurens de Jonge, and Gert-Jan Reichart. "Monitoring of a sediment plume produced by a deep-sea mining test in shallow water, Málaga Bight, Alboran Sea (southwestern Mediterranean Sea)." _Marine Geology_ 456 (2023): 106971.](https://www.sciencedirect.com/science/article/pii/S0025322722002420)
 
 ## Turbulence
