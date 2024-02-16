@@ -7,10 +7,10 @@ type: docs
 
 ## 
 
-Welcome to Nortek publication repository. In this collaborative webpage, we invite researches 
-to contribute and cite their work involving Nortek instruments. Our aim is to inspire Nortek
-users on doing cutting-edge research by giving ideas of instruments deployment, configuration,
-setup and data analysis.
+Welcome to Nortek publication repository. In this collaborative webpage, we invite researchers to cite their work involving Nortek instruments. We aim to inspire Nortek users on doing cutting-edge research by giving ideas of instrument deployment, configuration, setup and data analysis.
+Publications by deployment 
+
+# Navigate through publications categorized by the type of deployment, including AUVs, bottom-mounted systems, Glider, Wirewalker and more.
 
 ## Publications by deployment
 
