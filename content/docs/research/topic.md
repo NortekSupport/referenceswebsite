@@ -3,6 +3,8 @@
 ## Biogeochemical processes
 [Berg, Peter, Hans Røy, Felix Janssen, Volker Meyer, Bo Barker Jørgensen, Markus Huettel, and Dirk de Beer. "Oxygen uptake by aquatic sediments measured with a novel non-invasive eddy-correlation technique." _Marine Ecology Progress Series_ 261 (2003): 75-83.](https://www.int-res.com/abstracts/meps/v261/p75-83/)
 
+[Berg, Peter, Markus Huettel, Ronnie N. Glud, Clare E. Reimers, and Karl M. Attard. "Aquatic eddy covariance: the method and its contributions to defining oxygen and carbon fluxes in marine environments." _Annual Review of Marine Science_ 14 (2022): 431-455.](https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-042121-012329)
+
 [Kline, David I., Lida Teneva, Kenneth Schneider, Thomas Miard, Aaron Chai, Malcolm Marker, Kent Headley et al. "A short-term in situ CO2 enrichment experiment on Heron Island (GBR)." Scientific reports 2, no. 1 (2012): 413.](https://www.nature.com/articles/srep00413)
 
 [Kuwae, Tomohiro, Koichiro Kamio, Tetsunori Inoue, Eiichi Miyoshi, and Yusuke Uchiyama. "Oxygen exchange flux between sediment and water in an intertidal sandflat, measured in situ by the eddy-correlation method." Marine Ecology Progress Series 307 (2006): 59-68.](https://www.int-res.com/abstracts/meps/v307/p59-68)
