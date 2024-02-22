@@ -8,10 +8,6 @@ type: docs
 ## 
 
 Welcome to Nortek publication repository. In this collaborative webpage, we invite researchers to cite their work involving Nortek instruments. We aim to inspire Nortek users on doing cutting-edge research by giving ideas of instrument deployment, configuration, setup and data analysis.
-<<<<<<< HEAD
-=======
-Publications by deployment 
->>>>>>> 3de1d7765ec8723aac62b36e887691973b067ac6
 
 ## Publications by deployment
 
