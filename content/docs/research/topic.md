@@ -15,6 +15,8 @@
 ## Internal waves
 [Edge, W. C., N. L. Jones, M. D. Rayson, and G. N. Ivey. "Calibrated suspended sediment observations beneath large amplitude non‐linear internal waves." _Journal of Geophysical Research: Oceans_ 126, no. 12 (2021): e2021JC017538](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017538)
 
+[Kawaguchi, Yusuke, Itsuka Yabe, Tomoharu Senjyu, and Akie Sakai. "Amplification of typhoon-generated near-inertial internal waves observed near the Tsushima oceanic front in the Sea of Japan." Scientific Reports 13, no. 1 (2023): 8387.](https://www.nature.com/articles/s41598-023-33813-9)
+
 ## Marine heatwaves
 [Dzwonkowski, B., J. Coogan, S. Fournier, G. Lockridge, K. Park, and T. Lee. "Compounding impact of severe weather events fuels marine heatwave in the coastal ocean." Nature Communications 11, no. 1 (2020): 4623.](https://www.nature.com/articles/s41467-020-18339-2)
 
