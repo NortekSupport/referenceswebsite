@@ -30,9 +30,12 @@
 [Haalboom, Sabine, Henko C. de Stigter, Christian Mohn, Thomas Vandorpe, Marck Smit, Laurens de Jonge, and Gert-Jan Reichart. "Monitoring of a sediment plume produced by a deep-sea mining test in shallow water, Málaga Bight, Alboran Sea (southwestern Mediterranean Sea)." _Marine Geology_ 456 (2023): 106971.](https://www.sciencedirect.com/science/article/pii/S0025322722002420)
 
 ## Turbulence
-[Guerra, Maricarmen, and Jim Thomson. "Turbulence measurements from five-beam acoustic Doppler current profilers." Journal of Atmospheric and Oceanic Technology 34, no. 6 (2017): 1267-1284.](https://journals.ametsoc.org/view/journals/atot/34/6/jtech-d-16-0148.1.xml?tab_body=fulltext-display)
+[Guerra, Maricarmen, and Jim Thomson. "Turbulence measurements from five-beam acoustic Doppler current profilers." _Journal of Atmospheric and Oceanic Technology_ 34, no. 6 (2017): 1267-1284.](https://journals.ametsoc.org/view/journals/atot/34/6/jtech-d-16-0148.1.xml?tab_body=fulltext-display)
 
 [Shcherbina, Andrey Y., Eric A. D’Asaro, and Sven Nylund. "Observing finescale oceanic velocity structure with an autonomous Nortek acoustic Doppler current profiler." _Journal of Atmospheric and Oceanic Technology_ 35, no. 2 (2018): 411-427.](https://journals.ametsoc.org/view/journals/atot/35/2/jtech-d-17-0108.1.xml)
 
 [Thiébaut, Maxime, Nolwenn Quillien, Antoine Maison, Herveline Gaborieau, Nicolas Ruiz, Seumas MacKenzie, Gary Connor, and Jean-François Filipot. "Investigating the flow dynamics and turbulence at a tidal-stream energy site in a highly energetic estuary." _Renewable Energy_ 195 (2022): 252-262.](https://www.sciencedirect.com/science/article/pii/S0960148122008515?casa_token=dKJP6ebCzNAAAAAA:pE9ZWM8iqmZWh-k3tDUr6Ow3hLbGlq39ALhpmDAJcS8J2zxs974saaGxvgEts2uzfJc5pHg3Cegv)
+
+## Wave-current interaction
+[Saetra, Øyvind, Trygve Halsne, Ana Carrasco, Øyvind Breivik, Torstein Pedersen, and Kai Håkon Christensen. "Intense interactions between ocean waves and currents observed in the Lofoten Maelstrom." _Journal of Physical Oceanography_ 51, no. 11 (2021): 3461-3476.](https://journals.ametsoc.org/view/journals/phoc/51/11/JPO-D-20-0290.1.xml)
 

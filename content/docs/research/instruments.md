@@ -27,6 +27,9 @@
 
 [Siddle, Elizabeth, Karen J. Heywood, Benjamin GM Webber, and Peter Bromley. "First measurements of ocean and atmosphere in the Tropical North Atlantic using Caravela, a novel uncrewed surface vessel." _Weather_ 76, no. 6 (2021): 200-204.](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/wea.4004)
 
+## Signature 500
+[Saetra, Øyvind, Trygve Halsne, Ana Carrasco, Øyvind Breivik, Torstein Pedersen, and Kai Håkon Christensen. "Intense interactions between ocean waves and currents observed in the Lofoten Maelstrom." _Journal of Physical Oceanography_ 51, no. 11 (2021): 3461-3476.](https://journals.ametsoc.org/view/journals/phoc/51/11/JPO-D-20-0290.1.xml)
+
 ## Vector
 
 [Blenkinsopp, Chris E., Paul M. Bayle, Daniel C. Conley, Gerd Masselink, Emily Gulson, Isabel Kelly, Rafael Almar et al. "High-resolution, large-scale laboratory measurements of a sandy beach and dynamic cobble berm revetment." _Scientific Data_ 8, no. 1 (2021): 22.](https://www.nature.com/articles/s41597-021-00805-1)
