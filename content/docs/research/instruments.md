@@ -20,7 +20,7 @@
 ## Echosounder (Signature series)
 [Cutter Jr, George R., Christian S. Reiss, Sven Nylund, and George M. Watters. "Antarctic krill biomass and flux measured using wideband echosounders and acoustic doppler current profilers on submerged moorings." _Frontiers in Marine Science_ 9 (2022): 784469.](https://www.frontiersin.org/articles/10.3389/fmars.2022.784469/full)
 
-[Vasilijevic, Antonio, Ute Brönner, Muriel Dunn, Gonzalo García-Valle, Jacopo Fabrini, Ralph Stevenson-Jones, Bente Lilja Bye et al.] "A Digital Twin of the Trondheim Fjord for Environmental Monitoring—A Pilot Case." _Journal of Marine Science and Engineering_ 12, no. 9 (2024): 1530.
+[Vasilijevic, Antonio, Ute Brönner, Muriel Dunn, Gonzalo García-Valle, Jacopo Fabrini, Ralph Stevenson-Jones, Bente Lilja Bye et al. "A Digital Twin of the Trondheim Fjord for Environmental Monitoring—A Pilot Case." _Journal of Marine Science and Engineering_ 12, no. 9 (2024): 1530.](https://www.mdpi.com/2077-1312/12/9/1530)
 
 ## Signature 1000
 [Guerra, Maricarmen, and Jim Thomson. "Turbulence measurements from five-beam acoustic Doppler current profilers." Journal of Atmospheric and Oceanic Technology 34, no. 6 (2017): 1267-1284.](https://journals.ametsoc.org/view/journals/atot/34/6/jtech-d-16-0148.1.xml?tab_body=fulltext-display)
