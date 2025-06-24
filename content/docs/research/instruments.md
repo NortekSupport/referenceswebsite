@@ -32,8 +32,14 @@
 ## Signature 500
 [Saetra, Øyvind, Trygve Halsne, Ana Carrasco, Øyvind Breivik, Torstein Pedersen, and Kai Håkon Christensen. "Intense interactions between ocean waves and currents observed in the Lofoten Maelstrom." _Journal of Physical Oceanography_ 51, no. 11 (2021): 3461-3476.](https://journals.ametsoc.org/view/journals/phoc/51/11/JPO-D-20-0290.1.xml)
 
-## Vector
+## Signature 55
+[Bui, Toan, Ming Feng, and Christopher C. Chapman. "Gap-filled sub-surface mooring dataset off Western Australia during 2010–2023." Earth System Science Data 17, no. 4 (2025): 1693-1705.](https://essd.copernicus.org/articles/17/1693/2025/)
 
+[Feng, Ming, Toan Bui, and Jessica A. Benthuysen. "Seasonal climatology of the Leeuwin Current‐Capes Current system off southwest Australia from long‐term moored observations." Journal of Geophysical Research: Oceans 130, no. 5 (2025): e2025JC022662.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JC022662)
+
+[Ogle, Marcus T., Rosemary Smith, Benjamin Williams, Rafael Schiller, Ruth Perry, Pak Leung, Steven F. DiMarco, and Stephan Howden. "Four years of metocean support to the Shell Stones field: from asset integrity to collaborative research." In Offshore Technology Conference, p. D011S003R007. OTC, 2019.](https://onepetro.org/OTCONF/proceedings-abstract/19OTC/1-19OTC/181296)
+
+## Vector
 [Blenkinsopp, Chris E., Paul M. Bayle, Daniel C. Conley, Gerd Masselink, Emily Gulson, Isabel Kelly, Rafael Almar et al. "High-resolution, large-scale laboratory measurements of a sandy beach and dynamic cobble berm revetment." _Scientific Data_ 8, no. 1 (2021): 22.](https://www.nature.com/articles/s41597-021-00805-1)
 
 [Kraus, Nicholas C., Atle Lohrmann, and Ramon Cabrera. "New acoustic meter for measuring 3D laboratory flows." _Journal of Hydraulic Engineering_ 120, no. 3 (1994): 406-412.](https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9429(1994)120:3(406)?casa_token=HQntOY_g-1sAAAAA:OzdqL0e2zayh0mTX0Z2SmZGIZS4_jeZlssp3pY1VSBRMtPAFNeWeJ6tT4NoD9kotEPzFDRIrMeQryA)
