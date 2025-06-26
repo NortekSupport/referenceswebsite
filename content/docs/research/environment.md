@@ -28,6 +28,7 @@
 
 ## Seagrass meadow
 [Contti Neto, Nery, Andrew Pomeroy, Ryan Lowe, and Marco Ghisalberti. "Seagrass meadows reduce wind-wave driven sediment resuspension in a sheltered environment." _Frontiers in Marine Science_ 8 (2022): 733542.](https://www.frontiersin.org/articles/10.3389/fmars.2021.733542/full)
+[Contti Neto, Nery, Ryan J. Lowe, Marco Ghisalberti, Andrew Pomeroy, Matthew Reidenbach, Mario Conde‐Frias, and Renan F. da Silva. "Spectral wave energy dissipation by a seagrass meadow." Journal of Geophysical Research: Oceans 130, no. 3 (2025): e2024JC020938.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC020938)
 
 ## Submarine canyon
 [Cushanick, Matthew Stephan. "Analysis of nearshore currents near a submarine canyon." PhD diss., Monterey, California. _Naval Postgraduate School_, 2005.](https://apps.dtic.mil/sti/citations/ADA435643)
