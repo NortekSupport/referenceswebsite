@@ -9,4 +9,6 @@
 ## Renewable energy
 [Franzitta, Vincenzo, Domenico Curto, Daniele Milone, and Alessia Viola. "The desalination process driven by wave energy: A challenge for the future." _Energies_ 9, no. 12 (2016): 1032.](https://www.mdpi.com/1996-1073/9/12/1032)
 
+[Perez, Larissa, Remo Cossu, Alistair Grinham, and Irene Penesis. "Datasets for turbulence characterization collected with AD2CPs in potential tidal energy sites in Australia." Data in brief 43 (2022): 108336.](https://www.sciencedirect.com/science/article/pii/S2352340922005388)
+
 [Thiébaut, Maxime, Nolwenn Quillien, Antoine Maison, Herveline Gaborieau, Nicolas Ruiz, Seumas MacKenzie, Gary Connor, and Jean-François Filipot. "Investigating the flow dynamics and turbulence at a tidal-stream energy site in a highly energetic estuary." _Renewable Energy_ 195 (2022): 252-262.](https://www.sciencedirect.com/science/article/pii/S0960148122008515?casa_token=dKJP6ebCzNAAAAAA:pE9ZWM8iqmZWh-k3tDUr6Ow3hLbGlq39ALhpmDAJcS8J2zxs974saaGxvgEts2uzfJc5pHg3Cegv)

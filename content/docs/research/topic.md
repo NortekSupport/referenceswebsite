@@ -12,6 +12,9 @@
 ## Biomass
 [Cutter Jr, George R., Christian S. Reiss, Sven Nylund, and George M. Watters. "Antarctic krill biomass and flux measured using wideband echosounders and acoustic doppler current profilers on submerged moorings." _Frontiers in Marine Science_ 9 (2022): 784469.](https://www.frontiersin.org/articles/10.3389/fmars.2022.784469/full)
 
+## Coastal erosion
+[van Wiechen, Paul, Jantien Rutten, Sierd de Vries, Marion Tissier, Ryan Mieras, Katherine Anarde, Christine Baker, Ad Reniers, and Jan-Willem Mol. "Measurements of dune erosion processes during the RealDune/REFLEX experiments." Scientific Data 11, no. 1 (2024): 421.](https://www.nature.com/articles/s41597-024-03156-9)
+
 ## Internal waves
 [Edge, W. C., N. L. Jones, M. D. Rayson, and G. N. Ivey. "Calibrated suspended sediment observations beneath large amplitude non‐linear internal waves." _Journal of Geophysical Research: Oceans_ 126, no. 12 (2021): e2021JC017538](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017538)
 
@@ -31,6 +34,8 @@
 
 ## Turbulence
 [Guerra, Maricarmen, and Jim Thomson. "Turbulence measurements from five-beam acoustic Doppler current profilers." _Journal of Atmospheric and Oceanic Technology_ 34, no. 6 (2017): 1267-1284.](https://journals.ametsoc.org/view/journals/atot/34/6/jtech-d-16-0148.1.xml?tab_body=fulltext-display)
+
+[Perez, Larissa, Remo Cossu, Alistair Grinham, and Irene Penesis. "Datasets for turbulence characterization collected with AD2CPs in potential tidal energy sites in Australia." Data in brief 43 (2022): 108336.](https://www.sciencedirect.com/science/article/pii/S2352340922005388)
 
 [Shcherbina, Andrey Y., Eric A. D’Asaro, and Sven Nylund. "Observing finescale oceanic velocity structure with an autonomous Nortek acoustic Doppler current profiler." _Journal of Atmospheric and Oceanic Technology_ 35, no. 2 (2018): 411-427.](https://journals.ametsoc.org/view/journals/atot/35/2/jtech-d-17-0108.1.xml)
 

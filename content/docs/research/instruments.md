@@ -44,3 +44,4 @@
 
 [Kraus, Nicholas C., Atle Lohrmann, and Ramon Cabrera. "New acoustic meter for measuring 3D laboratory flows." _Journal of Hydraulic Engineering_ 120, no. 3 (1994): 406-412.](https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9429(1994)120:3(406)?casa_token=HQntOY_g-1sAAAAA:OzdqL0e2zayh0mTX0Z2SmZGIZS4_jeZlssp3pY1VSBRMtPAFNeWeJ6tT4NoD9kotEPzFDRIrMeQryA)
 
+[van Wiechen, Paul, Jantien Rutten, Sierd de Vries, Marion Tissier, Ryan Mieras, Katherine Anarde, Christine Baker, Ad Reniers, and Jan-Willem Mol. "Measurements of dune erosion processes during the RealDune/REFLEX experiments." Scientific Data 11, no. 1 (2024): 421.](https://www.nature.com/articles/s41597-024-03156-9)
