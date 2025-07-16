@@ -17,11 +17,13 @@
 [Norris, Benjamin K., Julia C. Mullarney, Karin R. Bryan, and Stephen M. Henderson. "Turbulence within natural mangrove pneumatophore canopies." _Journal of Geophysical Research: Oceans_ 124, no. 4 (2019): 2263-2288.](https://researchcommons.waikato.ac.nz/handle/10289/12408)
 
 ## Polar and ice environments
+[Divine, Dmitry V., Adam Steer, Mats A. Granskog, Sebastian Gerland, Øyvind Foss, Anca Cristea, Polona Itkin, Malin Johansson, Emily Down, and Agneta Fransson. "Data on Physical Properties of Sea Ice in the Northern Barents Sea and Adjacent Arctic Basin From the Nansen Legacy Project." Geoscience Data Journal 12, no. 2 (2025): e70001.](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.70001)
+
+[Hattermann, Tore, Keith W. Nicholls, Hartmut H. Hellmer, Peter ED Davis, Markus A. Janout, Svein Østerhus, Elisabeth Schlosser, Gerd Rohardt, and Torsten Kanzow. "Observed interannual changes beneath Filchner-Ronne Ice Shelf linked to large-scale atmospheric circulation." Nature communications 12, no. 1 (2021): 2961.](https://www.nature.com/articles/s41467-021-23131-x)
+
 [Kirillin, G. B., A. L. Forrest, K. E. Graves, A. Fischer, C. Engelhardt, and B. E. Laval. "Axisymmetric circulation driven by marginal heating in ice‐covered lakes." _Geophysical Research Letters_ 42, no. 8 (2015): 2893-2900.](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL062180)
 
 [Stewart, Craig L., Poul Christoffersen, Keith W. Nicholls, Michael JM Williams, and Julian A. Dowdeswell. "Basal melting of Ross Ice Shelf from solar heat absorption in an ice-front polynya." _Nature Geoscience_ 12, no. 6 (2019): 435-440.](https://www.nature.com/articles/s41561-019-0356-0)
-
-[Hattermann, Tore, Keith W. Nicholls, Hartmut H. Hellmer, Peter ED Davis, Markus A. Janout, Svein Østerhus, Elisabeth Schlosser, Gerd Rohardt, and Torsten Kanzow. "Observed interannual changes beneath Filchner-Ronne Ice Shelf linked to large-scale atmospheric circulation." Nature communications 12, no. 1 (2021): 2961.](https://www.nature.com/articles/s41467-021-23131-x)
 
 ## Rivers
 [Nowacki, Daniel J., Andrea S. Ogston, Charles A. Nittrouer, Aaron T. Fricke, Nils E. Asp, and Pedro Walfir M. Souza Filho. "Seasonal, tidal, and geomorphic controls on sediment export to Amazon River tidal floodplains." _Earth Surface Processes and Landforms_ 44, no. 9 (2019): 1846-1859.](https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4616?casa_token=jvl7WFnu_ZIAAAAA:5nKIxkuXSbOiC6YdUHhFInC0eVw-XfpLaNPQirI-YFO9uHRCzUpnKBxrCj5agLUs1U4-uKX7NQzQICT-kw)

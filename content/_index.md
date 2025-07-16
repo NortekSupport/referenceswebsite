@@ -9,6 +9,8 @@ type: docs
 
 Welcome to Nortek publication repository. In this collaborative webpage, we invite researchers to cite their work involving Nortek instruments. We aim to inspire Nortek users on doing cutting-edge research by giving ideas of instrument deployment, configuration, setup and data analysis.
 
+To upload your publication please email support@nortekgroup.com or go on https://github.com/NortekSupport/referenceswebsite and follow the instructions.
+
 ## Publications by deployment
 
 Navigate through publications categorized by the type of deployment, including AUVs, bottom-mounted systems, Glider, Wirewalker and more.
@@ -33,4 +35,6 @@ Explore research papers organized by topic, covering Waves, turbulence, biomass,
 ## Datasets
 Download Nortek instrument's datasets from peer-reviewed publications.
 
+## Code and tools
+Navigate user-contributed GitHub repositories featuring code for data processing, analysis, and reproducible workflows.
 

@@ -15,6 +15,9 @@
 ## Coastal erosion
 [van Wiechen, Paul, Jantien Rutten, Sierd de Vries, Marion Tissier, Ryan Mieras, Katherine Anarde, Christine Baker, Ad Reniers, and Jan-Willem Mol. "Measurements of dune erosion processes during the RealDune/REFLEX experiments." Scientific Data 11, no. 1 (2024): 421.](https://www.nature.com/articles/s41597-024-03156-9)
 
+## Ice drift velocity and draft
+[Divine, Dmitry V., Adam Steer, Mats A. Granskog, Sebastian Gerland, Øyvind Foss, Anca Cristea, Polona Itkin, Malin Johansson, Emily Down, and Agneta Fransson. "Data on Physical Properties of Sea Ice in the Northern Barents Sea and Adjacent Arctic Basin From the Nansen Legacy Project." Geoscience Data Journal 12, no. 2 (2025): e70001.](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.70001)
+
 ## Internal waves
 [Edge, W. C., N. L. Jones, M. D. Rayson, and G. N. Ivey. "Calibrated suspended sediment observations beneath large amplitude non‐linear internal waves." _Journal of Geophysical Research: Oceans_ 126, no. 12 (2021): e2021JC017538](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017538)
 
