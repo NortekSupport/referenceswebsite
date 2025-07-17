@@ -4,3 +4,6 @@ baseURL = 'https://nortek-references.netlify.app/'
 title = 'Nortek references'
 theme = 'hugo-book'
 languageCode = "en-us"
+
+[params]
+  BookSection = "*"

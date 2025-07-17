@@ -1,3 +1,9 @@
+---
+title: 'Datasets'
+weight: 1
+bookFlatSection: true
+---
+
 # List of datasets by instrument
 
 ## Signature 1000
