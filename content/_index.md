@@ -35,6 +35,6 @@ Explore research papers organized by topic, covering Waves, turbulence, biomass,
 ## Datasets
 Download Nortek instrument's datasets from peer-reviewed publications.
 
-## Code and tools
+## Codes and tools
 Navigate user-contributed GitHub repositories featuring code for data processing, analysis, and reproducible workflows.
 
