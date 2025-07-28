@@ -24,8 +24,14 @@
 ## Coastal erosion
 [van Wiechen, Paul, Jantien Rutten, Sierd de Vries, Marion Tissier, Ryan Mieras, Katherine Anarde, Christine Baker, Ad Reniers, and Jan-Willem Mol. "Measurements of dune erosion processes during the RealDune/REFLEX experiments." Scientific Data 11, no. 1 (2024): 421.](https://www.nature.com/articles/s41597-024-03156-9)
 
+## eDNA
+[Veylit, Lara, Stefania Piarulli, Julia Farkas, Emlyn J. Davies, Ralph Stevenson-Jones, Marianne Aas, Sanna Majaneva, and Sigrid Hakvåg. "Adaptive Sampling and Identification of Calanoid Copepods Using Acoustic Sensor Data and eDNA Metabarcoding: A Data-Driven Approach." Journal of Marine Science and Engineering 13, no. 4 (2025): 685.](https://www.mdpi.com/2077-1312/13/4/685)
+
 ## Ice drift velocity and draft
 [Divine, Dmitry V., Adam Steer, Mats A. Granskog, Sebastian Gerland, Øyvind Foss, Anca Cristea, Polona Itkin, Malin Johansson, Emily Down, and Agneta Fransson. "Data on Physical Properties of Sea Ice in the Northern Barents Sea and Adjacent Arctic Basin From the Nansen Legacy Project." Geoscience Data Journal 12, no. 2 (2025): e70001.](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.70001)
+
+## Infragravity waves
+[Winter, G., R. J. Lowe, G. Symonds, J. E. Hansen, and A. R. Van Dongeren. "Standing infragravity waves over an alongshore irregular rocky bathymetry." Journal of Geophysical Research: Oceans 122, no. 6 (2017): 4868-4885.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012242)
 
 ## Internal waves
 [Edge, W. C., N. L. Jones, M. D. Rayson, and G. N. Ivey. "Calibrated suspended sediment observations beneath large amplitude non‐linear internal waves." _Journal of Geophysical Research: Oceans_ 126, no. 12 (2021): e2021JC017538](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017538)
@@ -34,6 +40,12 @@
 
 ## Marine heatwaves
 [Dzwonkowski, B., J. Coogan, S. Fournier, G. Lockridge, K. Park, and T. Lee. "Compounding impact of severe weather events fuels marine heatwave in the coastal ocean." Nature Communications 11, no. 1 (2020): 4623.](https://www.nature.com/articles/s41467-020-18339-2)
+
+## Marine mammals
+[Cotter, Emma, Paul Murphy, Christopher Bassett, Benjamin Williamson, and Brian Polagye. "Acoustic characterization of sensors used for marine environmental monitoring." Marine pollution bulletin 144 (2019): 205-215.](https://www.sciencedirect.com/science/article/pii/S0025326X19303583?casa_token=_7WToTN2Pg4AAAAA:1j3Ioc3TFncmtu8WcPgshqsEH4qhr0TuH1BydZ3Q6660fXjPFcZOSSVmk_v2AWc105cEgAbwxuMS)
+
+## Microplastics
+[Boon, Anouk, Frans A. Buschman, Tim HM van Emmerik, Sophie Broere, and Bart Vermeulen. "Detection of suspended macroplastics using acoustic doppler current profiler (ADCP) echo." Frontiers in Earth Science 11 (2023): 1231595.](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2023.1231595/full)
 
 ## Sediment
 [Edge, W. C., N. L. Jones, M. D. Rayson, and G. N. Ivey. "Calibrated suspended sediment observations beneath large amplitude non‐linear internal waves." _Journal of Geophysical Research: Oceans_ 126, no. 12 (2021): e2021JC017538](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017538)

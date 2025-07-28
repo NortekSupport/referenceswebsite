@@ -16,6 +16,9 @@ bookFlatSection: true
 
 ## Signature 500
 
+### Echosounder
+[Scherelis, Constantin, Irene Penesis, Mark A. Hemer, Remo Cossu, and Jeffrey T. Wright. "Dataset for concurrent echosounder and ADCP measurements at a tidal energy candidate site in Australia." Data in Brief 31 (2020): 105873.](https://www.sciencedirect.com/science/article/pii/S2352340920307678)
+
 ### Ice drift velocity and draft
 [Lundesgaard, Ø., & Sundfjord, A. (2022). Time series of ocean currents, temperature, salinity, and pressure from ocean moorings M1 and M2 in the northwestern Barents Sea [Dataset]. Norwegian Polar Institute. https://doi.org/10.21334/NPOLAR.2022.1A68B156](https://data.npolar.no/dataset/1a68b156-6f96-4824-8b10-40f07acbd632)
 
@@ -23,6 +26,8 @@ bookFlatSection: true
 
 ### Turbulence
 [Perez, Larissa, Remo Cossu, Alistair Grinham, and Irene Penesis. "Datasets for turbulence characterization collected with AD2CPs in potential tidal energy sites in Australia." Data in brief 43 (2022): 108336.](https://www.sciencedirect.com/science/article/pii/S2352340922005388)
+
+
 
 ## Signature 55
 # Deep ocean

@@ -7,6 +7,8 @@
 [Wilson, W. Douglas, and Robert Heitsenrether. "A comparison of current profiles collected from bottom-and buoy-mounted instruments." In _OCEANS 2016 MTS/IEEE Monterey_, pp. 1-5. IEEE, 2016.](https://ieeexplore.ieee.org/abstract/document/7761347/)
 
 ## Buoy-mounted
+[Shao, Huan-Jie, Ke-Hsien Fu, I-Huan Lee, and Wei-Teh Li. "Evaluating Mooring Designs for ADCP Data Quality in the Strong Kuroshio Current: A Comparative Study of Elliptical Buoys and Stablemoor Buoys." Marine Research 4, no. 2 (2024): 55-74.](https://marres.namr.gov.tw/download/Evaluating-Mooring-Designs-for-ADCP-Data-Quality-in-the-Strong-Kuroshio-Current-A-Comparative-Study-of-Elliptical-Buoys-and-Stablemoor-Buoys.pdf)
+
 [Wilson, William Douglas, David Velasco, Dan Shumuk, Laura Fiorentino, and Robert Heitesenrether. "Improving Current Measurements from Wave Buoys: Results from a Successful Five-Year Collaborative Development Project." In OCEANS 2019 MTS/IEEE SEATTLE, pp. 1-6. IEEE, 2019.](https://ieeexplore.ieee.org/document/8962584)
 
 ## Drifter
@@ -25,6 +27,8 @@
 
 ## Moored systems
 [Chen, Miaoju, and Ming Feng. "A long-term, gridded, subsurface physical oceanography dataset and average annual cycles derived from in situ measurements off the Western Australia coast during 2009–2020." _Data in Brief_ 35 (2021): 106812.](https://www.sciencedirect.com/science/article/pii/S2352340921000962)
+
+[Sammartino, Simone, Jesús García-Lafuente, Irene Nadal, and Ricardo F. Sánchez-Leal. "Coupled echosounder and Doppler profiler measurements in the Strait of Gibraltar." Scientific Reports 14, no. 1 (2024): 31261.](https://www.nature.com/articles/s41598-024-82670-7)
 
 [Thomson, Jim, Levi Kilcher, Marshall Richmond, Joe Talbert, Alex DeKlerk, Brian Polagye, Maricarmen Guerra, and Rodrigo Cienfuegos. "Tidal turbulence spectra from a compliant mooring." In 1st Marine Energy Technology Symposium. 2013.](http://faculty.washington.edu/jmt3rd/TidalTurbulenceData/Chacao/Thomson_etal_GMREC-METS_2013_turbulencemooring.pdf)
 

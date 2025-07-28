@@ -4,10 +4,17 @@
 [Gomes, Esther R., Ryan P. Mulligan, Katherine L. Brodie, and Jesse E. McNinch. "Bathymetric control on the spatial distribution of wave breaking in the surf zone of a natural beach." _Coastal Engineering_ 116 (2016): 180-194.](https://www.sciencedirect.com/science/article/pii/S0378383916301235?casa_token=WiMfNBm6uykAAAAA:esmdjZuAPfXJSeHivsOZO8S6iZFTfze0YpMAadGLSl7S4vYuYcXtu6_yXj6QAw5oHVLdOmwNUbm9)
 
 ## Coral reef
+[Acevedo‐Ramirez, César A., W. Stephenson, S. Wakes, and I. Mariño‐Tapia. "Wave transformation on a fringing reef system with spur and groove structures." Journal of Geophysical Research: Oceans 126, no. 9 (2021): e2020JC016910.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016910)
+
 [Pomeroy, Andrew WM, Ryan J. Lowe, Marco Ghisalberti, Curt Storlazzi, Graham Symonds, and Dano Roelvink. "Sediment transport in the presence of large reef bottom roughness." _Journal of Geophysical Research: Oceans_ 122, no. 2 (2017): 1347-1368.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC011755)
+
+[Sous, Damien, Marion Tissier, Vincent Rey, Julien Touboul, Frederic Bouchette, Jean-Luc Devenon, Cristele Chevalier, and Jerome Aucan. "Wave transformation over a barrier reef." Continental shelf research 184 (2019): 66-80.](https://www.sciencedirect.com/science/article/pii/S0278434318304904?casa_token=BSmTYX_RQVsAAAAA:ghr8ms-4vxCpwgqAcWxuZqGYzBq4AgTuhnh_KViNHGRRyM6gxjaZD8S-wnG1F8l-8f4wbF31XZGA)
 
 ## Deep ocean
 [Spearman, Jeremy, Jonathan Taylor, Neil Crossouard, Alan Cooper, Michael Turnbull, Andrew Manning, Mark Lee, and Bramley Murton. "Measurement and modelling of deep sea sediment plumes and implications for deep sea mining." _Scientific reports_ 10, no. 1 (2020): 5075.](https://www.nature.com/articles/s41598-020-61837-y)
+
+## Estuaries
+[Wheeler, Duncan C., Sarah N. Giddings, Mark Merrifield, and Geno Pawlak. "Infragravity frequency wave‐driven bottom boundary layer turbulence in shallow estuaries." Journal of Geophysical Research: Oceans 130, no. 3 (2025): e2024JC021284.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021284)
 
 ## Mangroove
 [Gijón Mancheño, Alejandra, Wiljan Jansen, Johan C. Winterwerp, and Wim SJ Uijttewaal. "Predictive model of bulk drag coefficient for a nature-based structure exposed to currents." _Scientific reports_ 11, no. 1 (2021): 3517.](https://www.nature.com/articles/s41598-021-83035-0)
@@ -20,6 +27,8 @@
 [Divine, Dmitry V., Adam Steer, Mats A. Granskog, Sebastian Gerland, Øyvind Foss, Anca Cristea, Polona Itkin, Malin Johansson, Emily Down, and Agneta Fransson. "Data on Physical Properties of Sea Ice in the Northern Barents Sea and Adjacent Arctic Basin From the Nansen Legacy Project." Geoscience Data Journal 12, no. 2 (2025): e70001.](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.70001)
 
 [Hattermann, Tore, Keith W. Nicholls, Hartmut H. Hellmer, Peter ED Davis, Markus A. Janout, Svein Østerhus, Elisabeth Schlosser, Gerd Rohardt, and Torsten Kanzow. "Observed interannual changes beneath Filchner-Ronne Ice Shelf linked to large-scale atmospheric circulation." Nature communications 12, no. 1 (2021): 2961.](https://www.nature.com/articles/s41467-021-23131-x)
+
+[Hudson, K., M. J. Oliver, J. Kohut, J. H. Cohen, Michael S. Dinniman, John M. Klinck, C. S. Reiss et al. "Subsurface eddy facilitates retention of simulated diel vertical migrators in a biological hotspot." Journal of Geophysical Research: Oceans 127, no. 5 (2022): e2021JC017482.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017482)
 
 [Kirillin, G. B., A. L. Forrest, K. E. Graves, A. Fischer, C. Engelhardt, and B. E. Laval. "Axisymmetric circulation driven by marginal heating in ice‐covered lakes." _Geophysical Research Letters_ 42, no. 8 (2015): 2893-2900.](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL062180)
 

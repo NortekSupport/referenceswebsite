@@ -23,6 +23,8 @@ bookFlatSection: true
 
 [Dolfyn](https://github.com/NortekSupport/dolfyn) A library for oceanographic doppler instruments such as Acoustic Doppler Profilers (ADPs, ADCPs) and Acoustic Doppler Velocimeters (ADVs). 
 
+[Echopype](https://github.com/OSOceanAcoustics/echopype) Enabling interoperability and scalability in ocean sonar data analysis
+
 [Kobe](https://github.com/NPIOcean/kobbe) Post-processing of ice and ocean data from Nortek Signature ADCPs
 
 [Nucleus_driver_private](https://github.com/NortekSupport/nucleus_driver_private) Toolbox for Nucleus
