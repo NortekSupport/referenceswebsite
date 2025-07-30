@@ -50,11 +50,25 @@
 ## Sediment
 [Edge, W. C., N. L. Jones, M. D. Rayson, and G. N. Ivey. "Calibrated suspended sediment observations beneath large amplitude non‐linear internal waves." _Journal of Geophysical Research: Oceans_ 126, no. 12 (2021): e2021JC017538](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC017538)
 
+[Fettweis, Michael, Rolf Riethmüller, Romaric Verney, Marius Becker, Joan Backers, Matthias Baeye, Marion Chapalain et al. "Uncertainties associated with in situ high-frequency long-term observations of suspended particulate matter concentration using optical and acoustic sensors." Progress in Oceanography 178 (2019): 102162.](https://www.sciencedirect.com/science/article/pii/S0079661118302003)
+
 [Gartner, Jeffrey W. "Estimating suspended solids concentrations from backscatter intensity measured by acoustic Doppler current profiler in San Francisco Bay, California." Marine geology 211, no. 3-4 (2004): 169-187.](https://www.sciencedirect.com/science/article/pii/S0025322704001872?casa_token=AbZYbs7eFvQAAAAA:VHQDvE9-3yDKSUdYhQN2Jc6vQRfmAUOxuDXVDd-QHowkS9htXfS5do3p4kcRmxAekKHj6oUB8YAc)
 
 [Ha, H. K., JP-Y. Maa, K. Park, and Y. H. Kim. "Estimation of high-resolution sediment concentration profiles in bottom boundary layer using pulse-coherent acoustic Doppler current profilers." _Marine Geology_ 279, no. 1-4 (2011): 199-209.](https://www.sciencedirect.com/science/article/pii/S0025322710002987?casa_token=IVGpqYlVUbcAAAAA:VR3xXraEhIVmTRgpFdH3lrHMtIxWhaAsPh_yeXYbDvh372I4zGo1cfy5I8vVPFWYDL7C7DHCdgKp)
 
+[Haalboom, Sabine, Henko de Stigter, Gerard Duineveld, Hans van Haren, Gert-Jan Reichart, and Furu Mienis. "Suspended particulate matter in a submarine canyon (Whittard Canyon, Bay of Biscay, NE Atlantic Ocean): Assessment of commonly used instruments to record turbidity." Marine Geology 434 (2021): 106439.](https://www.sciencedirect.com/science/article/pii/S0025322721000219)
+
+[Haalboom, Sabine, Timm Schoening, Peter Urban, Iason-Zois Gazis, Henko de Stigter, Benjamin Gillard, Matthias Baeye et al. "Monitoring of anthropogenic sediment plumes in the Clarion-Clipperton Zone, NE equatorial Pacific Ocean." Frontiers in marine science 9 (2022): 882155.](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.882155/full)
+
 [Haalboom, Sabine, Henko C. de Stigter, Christian Mohn, Thomas Vandorpe, Marck Smit, Laurens de Jonge, and Gert-Jan Reichart. "Monitoring of a sediment plume produced by a deep-sea mining test in shallow water, Málaga Bight, Alboran Sea (southwestern Mediterranean Sea)." _Marine Geology_ 456 (2023): 106971.](https://www.sciencedirect.com/science/article/pii/S0025322722002420)
+
+[Hosseini, S. A., A. Shamsai, and B. Ataie-Ashtiani. "Synchronous measurements of the velocity and concentration in low density turbidity currents using an Acoustic Doppler Velocimeter." Flow Measurement and Instrumentation 17, no. 1 (2006): 59-68.](https://www.sciencedirect.com/science/article/pii/S0955598605000580)
+
+[Jaarsma, R. A. J., M. Daugharty, S. D. Kamminga, M. A. van der Lugt, Matthieu A. de Schipper, and S. Nylund. "ADCP suspended sediment transport monitoring using acoustic particle radius." CoastLab 2024: Physical Modelling in Coastal Engineering and Science (2024).](https://proceedings.open.tudelft.nl/coastlab24/article/view/705)
+
+[Salehi, M., and K. B. Strom. "Relationship between acoustic backscatter strength and suspended sediment concentration using a 6 MHz Nortek Vector Velocimeter." In World Environmental and Water Resources Congress 2010: Challenges of Change, pp. 1676-1682. 2010.](https://ascelibrary.org/doi/abs/10.1061/41114(371)176)
+
+[Zeng, Ying, Xiaoling Yin, Chen Lu, and Shuqin Huang. "Experimental investigation on inversion of ADVP measurement for suspended sediment concentration, a case study." In IOP Conference Series: Earth and Environmental Science, vol. 227, no. 4, p. 042031. IOP Publishing, 2019.](https://iopscience.iop.org/article/10.1088/1755-1315/227/4/042031/meta)
 
 ## Turbulence
 [Guerra, Maricarmen, and Jim Thomson. "Turbulence measurements from five-beam acoustic Doppler current profilers." _Journal of Atmospheric and Oceanic Technology_ 34, no. 6 (2017): 1267-1284.](https://journals.ametsoc.org/view/journals/atot/34/6/jtech-d-16-0148.1.xml?tab_body=fulltext-display)
