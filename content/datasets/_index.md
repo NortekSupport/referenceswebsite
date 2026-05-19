@@ -33,6 +33,10 @@ bookFlatSection: true
 # Deep ocean
 [Bui, Toan; \& Feng, Ming (2024): Gap-filled, gridded subsurface physical oceanography time series dataset derived from selected mooring measurements off the Western Australia coast during 2009-2023. v9. CSIRO. Data Collection. https://doi.org/10.25919/myac-yx60](https://data.csiro.au/collection/csiro%3A62681v9)
 
+[Feng, Ming, Toan Bui, and Jessica A. Benthuysen. "Seasonal climatology of the Leeuwin Current‐Capes Current system off southwest Australia from long‐term moored observations." Journal of Geophysical Research: Oceans 130, no. 5 (2025): e2025JC022662.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JC022662)
+
+[Ogle, Marcus T., Rosemary Smith, Benjamin Williams, Rafael Schiller, Ruth Perry, Pak Leung, Steven F. DiMarco, and Stephan Howden. "Four years of metocean support to the Shell Stones field: from asset integrity to collaborative research." In Offshore Technology Conference, p. D011S003R007. OTC, 2019.](https://onepetro.org/OTCONF/proceedings-abstract/19OTC/1-19OTC/181296)
+
 ## Vector
 ### Turbulence
 [Rutten, Jantien, Marion Tissier, Paul van Wiechen, Xinyi Zhang, Sierd de Vries, Ad Reniers, and Jan-Willem Mol. "Continuous wave measurements collected in intermediate depth throughout the north sea storm season during the realdune/reflex experiments." Data 9, no. 5 (2024): 70.](https://www.mdpi.com/2306-5729/9/5/70)
