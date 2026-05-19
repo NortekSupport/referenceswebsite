@@ -49,6 +49,18 @@
 ## Vector
 [Blenkinsopp, Chris E., Paul M. Bayle, Daniel C. Conley, Gerd Masselink, Emily Gulson, Isabel Kelly, Rafael Almar et al. "High-resolution, large-scale laboratory measurements of a sandy beach and dynamic cobble berm revetment." _Scientific Data_ 8, no. 1 (2021): 22.](https://www.nature.com/articles/s41597-021-00805-1)
 
+[Bricker, Jeremy D., and Stephen G. Monismith. "Spectral wave–turbulence decomposition." _Journal of Atmospheric and Oceanic Technology_ 24, no. 8 (2007): 1479-1487.](https://journals.ametsoc.org/view/journals/atot/24/8/jtech2066_1.xml)
+
+[Chanson, Hubert, David Reungoat, Bruno Simon, and Pierre Lubin. "High-frequency turbulence and suspended sediment concentration measurements in the Garonne River tidal bore." Estuarine, Coastal and Shelf Science 95, no. 2-3 (2011): 298-306.](https://www.sciencedirect.com/science/article/pii/S0272771411003945)
+
+[Chanson, Hubert, Mark Trevethan, and Shin-ichi Aoki. "Acoustic Doppler velocimetry (ADV) in small estuary: field experience and signal post-processing." Flow Measurement and Instrumentation 19, no. 5 (2008): 307-313.](https://www.sciencedirect.com/science/article/pii/S0955598608000319)
+
+[Chanson, Hubert, and Xinqian Leng. "Acoustic Doppler Velocimetry in Transient Free-Surface Flows: Field and Laboratory Experience with Bores and Surges." _Journal of Hydraulic Engineering_ 150, no. 5 (2024): 04024034.](https://ascelibrary.org/doi/abs/10.1061/JHEND8.HYENG-14018)
+
+[Daskiran, Cosan, Fangda Cui, Michel C. Boufadel, Lin Zhao, Scott A. Socolofsky, Tamay Ozgokmen, Brian Robinson, and Thomas King. "Hydrodynamics and dilution of an oil jet in crossflow: The role of small-scale motions from laboratory experiment and large eddy simulations." International Journal of Heat and Fluid Flow 85 (2020): 108634.](https://www.sciencedirect.com/science/article/pii/S0142727X1931255X)
+
 [Kraus, Nicholas C., Atle Lohrmann, and Ramon Cabrera. "New acoustic meter for measuring 3D laboratory flows." _Journal of Hydraulic Engineering_ 120, no. 3 (1994): 406-412.](https://ascelibrary.org/doi/abs/10.1061/(ASCE)0733-9429(1994)120:3(406)?casa_token=HQntOY_g-1sAAAAA:OzdqL0e2zayh0mTX0Z2SmZGIZS4_jeZlssp3pY1VSBRMtPAFNeWeJ6tT4NoD9kotEPzFDRIrMeQryA)
+
+[Nash, Jonathan D., Kaelan Weiss, Meagan E. Wengrove, Noah Osman, Erin C. Pettit, Ken Zhao, Rebecca H. Jackson et al. "Turbulent dynamics of buoyant melt plumes adjacent near‐vertical glacier ice." Geophysical Research Letters 51, no. 9 (2024): e2024GL108790.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024GL108790)
 
 [van Wiechen, Paul, Jantien Rutten, Sierd de Vries, Marion Tissier, Ryan Mieras, Katherine Anarde, Christine Baker, Ad Reniers, and Jan-Willem Mol. "Measurements of dune erosion processes during the RealDune/REFLEX experiments." Scientific Data 11, no. 1 (2024): 421.](https://www.nature.com/articles/s41597-024-03156-9)

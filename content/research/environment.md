@@ -14,12 +14,20 @@
 [Spearman, Jeremy, Jonathan Taylor, Neil Crossouard, Alan Cooper, Michael Turnbull, Andrew Manning, Mark Lee, and Bramley Murton. "Measurement and modelling of deep sea sediment plumes and implications for deep sea mining." _Scientific reports_ 10, no. 1 (2020): 5075.](https://www.nature.com/articles/s41598-020-61837-y)
 
 ## Estuaries
+[Chanson, Hubert, David Reungoat, Bruno Simon, and Pierre Lubin. "High-frequency turbulence and suspended sediment concentration measurements in the Garonne River tidal bore." Estuarine, Coastal and Shelf Science 95, no. 2-3 (2011): 298-306.](https://www.sciencedirect.com/science/article/pii/S0272771411003945)
+
+[Chanson, Hubert, and Xinqian Leng. "Acoustic Doppler Velocimetry in Transient Free-Surface Flows: Field and Laboratory Experience with Bores and Surges." _Journal of Hydraulic Engineering_ 150, no. 5 (2024): 04024034.](https://ascelibrary.org/doi/abs/10.1061/JHEND8.HYENG-14018)
+
+[Mosquera, Rodrigo, and Francisco Pedocchi. "Salinity estimation from acoustic Doppler velocimeter measurements." Continental Shelf Research 180 (2019): 59-62.](https://www.sciencedirect.com/science/article/pii/S0278434318305739)
+
 [Wheeler, Duncan C., Sarah N. Giddings, Mark Merrifield, and Geno Pawlak. "Infragravity frequency wave‐driven bottom boundary layer turbulence in shallow estuaries." Journal of Geophysical Research: Oceans 130, no. 3 (2025): e2024JC021284.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021284)
 
 ## Mangroove
 [Gijón Mancheño, Alejandra, Wiljan Jansen, Johan C. Winterwerp, and Wim SJ Uijttewaal. "Predictive model of bulk drag coefficient for a nature-based structure exposed to currents." _Scientific reports_ 11, no. 1 (2021): 3517.](https://www.nature.com/articles/s41598-021-83035-0)
 
 [Mullarney, Julia C., Stephen M. Henderson, Benjamin K. Norris, Karin R. Bryan, Aaron T. Fricke, Dean R. Sandwell, and Daniel P. Culling. "A question of scale: How turbulence around aerial roots shapes the seabed morphology in mangrove forests of the Mekong Delta." _Oceanography_ 30, no. 3 (2017): 34-47.](https://www.jstor.org/stable/26201896?casa_token=emypoyyTiKEAAAAA:rUydYKWeR6-wbkYD6esHpaSEeaD1_jnu25lMsKEvlFWQPUxm7XBBtgDR0HGc7cUixKpnux6hUj4gmoWnFpAUECnB5IUH1a1x-rt41vIbUeiw_NkIIiY2Hg)
+
+[Norris, Benjamin K., Julia C. Mullarney, Karin R. Bryan, and Stephen M. Henderson. "The effect of pneumatophore density on turbulence: A field study in a Sonneratia-dominated mangrove forest, Vietnam." Continental Shelf Research 147 (2017): 114-127.](https://www.sciencedirect.com/science/article/pii/S027843431630526X)
 
 [Norris, Benjamin K., Julia C. Mullarney, Karin R. Bryan, and Stephen M. Henderson. "Turbulence within natural mangrove pneumatophore canopies." _Journal of Geophysical Research: Oceans_ 124, no. 4 (2019): 2263-2288.](https://researchcommons.waikato.ac.nz/handle/10289/12408)
 
@@ -32,6 +40,8 @@
 
 [Kirillin, G. B., A. L. Forrest, K. E. Graves, A. Fischer, C. Engelhardt, and B. E. Laval. "Axisymmetric circulation driven by marginal heating in ice‐covered lakes." _Geophysical Research Letters_ 42, no. 8 (2015): 2893-2900.](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL062180)
 
+[Nash, Jonathan D., Kaelan Weiss, Meagan E. Wengrove, Noah Osman, Erin C. Pettit, Ken Zhao, Rebecca H. Jackson et al. "Turbulent dynamics of buoyant melt plumes adjacent near‐vertical glacier ice." Geophysical Research Letters 51, no. 9 (2024): e2024GL108790.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024GL108790)
+
 [Stewart, Craig L., Poul Christoffersen, Keith W. Nicholls, Michael JM Williams, and Julian A. Dowdeswell. "Basal melting of Ross Ice Shelf from solar heat absorption in an ice-front polynya." _Nature Geoscience_ 12, no. 6 (2019): 435-440.](https://www.nature.com/articles/s41561-019-0356-0)
 
 ## Rivers
@@ -41,6 +51,14 @@
 [Contti Neto, Nery, Andrew Pomeroy, Ryan Lowe, and Marco Ghisalberti. "Seagrass meadows reduce wind-wave driven sediment resuspension in a sheltered environment." _Frontiers in Marine Science_ 8 (2022): 733542.](https://www.frontiersin.org/articles/10.3389/fmars.2021.733542/full)
 
 [Contti Neto, Nery, Ryan J. Lowe, Marco Ghisalberti, Andrew Pomeroy, Matthew Reidenbach, Mario Conde‐Frias, and Renan F. da Silva. "Spectral wave energy dissipation by a seagrass meadow." Journal of Geophysical Research: Oceans 130, no. 3 (2025): e2024JC020938.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC020938)
+
+[Hansen, Jennifer CR, and Matthew A. Reidenbach. "Seasonal growth and senescence of a Zostera marina seagrass meadow alters wave-dominated flow and sediment suspension within a coastal bay." Estuaries and coasts 36, no. 6 (2013): 1099-1114.](https://link.springer.com/article/10.1007/s12237-013-9620-5)
+
+[Hansen, Jennifer CR, and Matthew A. Reidenbach. "Turbulent mixing and fluid transport within Florida Bay seagrass meadows." Advances in Water Resources 108 (2017): 205-215.](https://www.sciencedirect.com/science/article/pii/S0309170816306479)
+
+[Schaefer, Rachel B., and Heidi M. Nepf. "Flow structure in an artificial seagrass meadow in combined wave-current conditions." Frontiers in Marine Science 9 (2022): 836901.](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.836901/full)
+
+[Turrietta, Elise, and Matthew A. Reidenbach. "Edge effects of a fragmented seagrass habitat on flow, bivalve recruitment, and sediment dynamics." Marine Ecology Progress Series 732 (2024).](https://par.nsf.gov/biblio/10500734)
 
 ## Submarine canyon
 [Cushanick, Matthew Stephan. "Analysis of nearshore currents near a submarine canyon." PhD diss., Monterey, California. _Naval Postgraduate School_, 2005.](https://apps.dtic.mil/sti/citations/ADA435643)

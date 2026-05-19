@@ -25,6 +25,15 @@
 
 [Zeiden, Kristin L., Daniel L. Rudnick, and Jennifer A. MacKinnon. "Glider observations of a mesoscale oceanic island wake." _Journal of Physical Oceanography_ 49, no. 9 (2019): 2217-2235.](https://journals.ametsoc.org/view/journals/phoc/49/9/jpo-d-18-0233.1.xml?tab_body=abstract-display)
 
+## Laboratory Research
+[Bricker, Jeremy D., and Stephen G. Monismith. "Spectral wave–turbulence decomposition." _Journal of Atmospheric and Oceanic Technology_ 24, no. 8 (2007): 1479-1487.](https://journals.ametsoc.org/view/journals/atot/24/8/jtech2066_1.xml)
+
+[Chanson, Hubert, and Xinqian Leng. "Acoustic Doppler Velocimetry in Transient Free-Surface Flows: Field and Laboratory Experience with Bores and Surges." _Journal of Hydraulic Engineering_ 150, no. 5 (2024): 04024034.](https://ascelibrary.org/doi/abs/10.1061/JHEND8.HYENG-14018)
+
+[Daskiran, Cosan, Fangda Cui, Michel C. Boufadel, Lin Zhao, Scott A. Socolofsky, Tamay Ozgokmen, Brian Robinson, and Thomas King. "Hydrodynamics and dilution of an oil jet in crossflow: The role of small-scale motions from laboratory experiment and large eddy simulations." International Journal of Heat and Fluid Flow 85 (2020): 108634.](https://www.sciencedirect.com/science/article/pii/S0142727X1931255X)
+
+[Pendergast, Thomas, Ryan P. Mulligan, Benjamin Davidson, Alexandra Schueller, Kelsey Fall, Dawson Ethier, Nimish Pujara, Jack A. Puleo, and Jason Olsthoorn. "Wave-induced horizontal diffusivity from optically sensed dye tracer fields in impermeable beach laboratory experiments." Coastal Engineering (2025): 104925.](https://www.sciencedirect.com/science/article/pii/S0378383925002303)
+
 ## Moored systems
 [Chen, Miaoju, and Ming Feng. "A long-term, gridded, subsurface physical oceanography dataset and average annual cycles derived from in situ measurements off the Western Australia coast during 2009–2020." _Data in Brief_ 35 (2021): 106812.](https://www.sciencedirect.com/science/article/pii/S2352340921000962)
 
